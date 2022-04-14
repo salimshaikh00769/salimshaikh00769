@@ -1,20 +1,13 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Pune, Maharashtra.
-
-##### NOW
-
-- ✨ Crafted last [Laracon Online](https://suprius.in) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+#### I'm a Front-end Developer working in Pune, Maharashtra.
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🏢 I'm currently working as **Front-end freelancer**
+- 🌍 I'm mostly active within the **javaScript Community**
+- 💅 Designed: Website for construction company (https://suprius.in/)
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 💬 Ping me about **Angular**, **javaScript**, **HTML**, **CSS**, **Bootstrap**
+- 📫 Reach me: [linkedin.com/salimshaikh00769](www.linkedin.com/in/salimshaikh00769)
+- ⚡️ Fun fact: I'm a huge fan of Iron Man
