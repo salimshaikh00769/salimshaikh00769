@@ -8,6 +8,6 @@
 - 🌍 I'm mostly active within the **javaScript Community**
 - 💅 Designed: Website for construction company (https://suprius.in/)
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Angular**, **javaScript**, **HTML**, **CSS**, **Bootstrap**
+- 💬 Ping me about **React JS**, **javaScript**, **HTML**, **CSS**, **Bootstrap**
 - 📫 Reach me: [www.linkedin.com/in/salimshaikh00769]
 - ⚡️ Fun fact: I'm a huge fan of Iron Man
